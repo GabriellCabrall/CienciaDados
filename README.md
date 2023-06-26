@@ -20,11 +20,11 @@ Ou ainda, para o locador comum, dado o imóvel que ele está buscando, ajudar a 
 
 As bases de dados foram retiradas do site kaggle: <https://www.kaggle.com/allanbruno/airbnb-rio-de-janeiro>
 
-Elas estão disponíveis para download abaixo da aula (se você puxar os dados direto do Kaggle pode ser que encontre resultados diferentes dos meus, afinal as bases de dados podem ter sido atualizadas).
+Pode ser que encontre resultados diferentes dos meus, pois as bases de dados podem ter sido atualizadas.
 
 Caso queira uma outra solução, podemos olhar como referência a solução do usuário Allan Bruno do kaggle no Notebook: <https://www.kaggle.com/allanbruno/helping-regular-people-price-listings-on-airbnb>
 
-Você vai perceber semelhanças entre a solução que vamos desenvolver aqui e a dele, mas também algumas diferenças significativas no processo de construção do projeto.
+Você vai perceber semelhanças entre a solução desenvolvida aqui e a dele, mas também algumas diferenças significativas no processo de construção do projeto.
 
 - As bases de dados são os preços dos imóveis obtidos e suas respectivas características em cada mês.
 - Os preços são dados em reais (R$)
